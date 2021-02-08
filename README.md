@@ -225,6 +225,7 @@ Signed,
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - Tomasz Kane ([@tomaszkane](https://github.com/tomaszkane)), Backend Developer, Poland
+- Tomasz Muras, ([@tmuras](https://github.com/tmuras), Poland
 - Tomasz Sawicki ([@Furgas](https://github.com/Furgas)), Software Developer and PHP Enthusiast since 2003, Poland
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
 - Umut Işık ([@umutphp](https://github.com/umutphp)) Software developer, :heart: PHP since 2000, 🇹🇷 Turkey
